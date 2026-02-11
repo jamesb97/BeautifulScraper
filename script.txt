@@ -1,1 +1,1 @@
-python web_scraper.py https://www.morningbrew.com/issues/latest
+python web_scraper.py URL
